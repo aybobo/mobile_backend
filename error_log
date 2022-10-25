@@ -1,0 +1,1 @@
+[16-Sep-2022 16:49:38 America/New_York] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/dalepxxy/public_html/events/application/models/Api_model.php on line 23
